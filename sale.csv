@@ -1,0 +1,109 @@
+PRODUCT_ID,MONTH,UNIT_SALES,PRODUCT_NAME,SUPPLY_TIME,QUANTITY_ON_HAND
+1,1,14700,Combiflam,3,11
+1,2,7980,Combiflam,3,30
+1,3,7980,Combiflam,3,20
+1,4,6300,Combiflam,3,15
+1,5,3780,Combiflam,3,44
+1,6,6720,Combiflam,3,66
+1,7,9660,Combiflam,3,70
+1,8,15540,Combiflam,3,12
+1,9,8820,Combiflam,3,88
+1,10,7980,Combiflam,3,66
+1,11,3780,Combiflam,3,47
+1,12,3780,Combiflam,3,230
+2,1,5760,Corex,2,11
+2,2,6480,Corex,2,83
+2,3,4752,Corex,2,13
+2,4,6624,Corex,2,45
+2,5,4752,Corex,2,23
+2,6,4320,Corex,2,86
+2,7,6624,Corex,2,32
+2,8,5328,Corex,2,64
+2,9,4320,Corex,2,90
+2,10,8496,Corex,2,27
+2,11,5040,Corex,2,92
+2,12,1728,Corex,2,220
+3,1,7735,Perinorm,3,34
+3,2,6851,Perinorm,3,43
+3,3,10387,Perinorm,3,36
+3,4,7514,Perinorm,3,87
+3,5,6188,Perinorm,3,54
+3,6,7072,Perinorm,3,35
+3,7,8619,Perinorm,3,32
+3,8,5525,Perinorm,3,78
+3,9,8177,Perinorm,3,12
+3,10,10608,Perinorm,3,9
+3,11,8840,Perinorm,3,54
+3,12,4641,Perinorm,3,946
+4,1,12740,Febrex Plus,2,32
+4,2,9620,Febrex Plus,2,12
+4,3,11960,Febrex Plus,2,74
+4,4,7020,Febrex Plus,2,99
+4,5,13260,Febrex Plus,2,26
+4,6,7540,Febrex Plus,2,11
+4,7,10920,Febrex Plus,2,56
+4,8,13000,Febrex Plus,2,84
+4,9,5720,Febrex Plus,2,74
+4,10,9100,Febrex Plus,2,43
+4,11,9620,Febrex Plus,2,53
+4,12,2080,Febrex Plus,2,298
+5,1,1890,Omez,2,12
+5,2,2660,Omez,2,87
+5,3,1610,Omez,2,45
+5,4,2520,Omez,2,34
+5,5,2310,Omez,2,87
+5,6,3640,Omez,2,56
+5,7,3080,Omez,2,31
+5,8,2590,Omez,2,46
+5,9,2940,Omez,2,32
+5,10,2170,Omez,2,23
+5,11,2730,Omez,2,78
+5,12,490,Omez,2,356
+6,1,4760,Zenflox,2,43
+6,2,4620,Zenflox,2,49
+6,3,6300,Zenflox,2,77
+6,4,5460,Zenflox,2,87
+6,5,6440,Zenflox,2,64
+6,6,2940,Zenflox,2,73
+6,7,6440,Zenflox,2,92
+6,8,8120,Zenflox,2,83
+6,9,7980,Zenflox,2,49
+6,10,5180,Zenflox,2,24
+6,11,7980,Zenflox,2,35
+6,12,3220,Zenflox,2,555
+7,1,2618,oflason 200,3,28
+7,2,2695,oflason 200,3,77
+7,3,3080,oflason 200,3,84
+7,4,4158,oflason 200,3,30
+7,5,2849,oflason 200,3,69
+7,6,2079,oflason 200,3,37
+7,7,3927,oflason 200,3,26
+7,8,3080,oflason 200,3,45
+7,9,2079,oflason 200,3,85
+7,10,1386,oflason 200,3,21
+7,11,4697,oflason 200,3,84
+7,12,1617,oflason 200,3,847
+8,1,9450,Megapen,3,33
+8,2,12663,Megapen,3,22
+8,3,3780,Megapen,3,32
+8,4,6993,Megapen,3,96
+8,5,6993,Megapen,3,57
+8,6,8316,Megapen,3,56
+8,7,10206,Megapen,3,54
+8,8,5103,Megapen,3,34
+8,9,10773,Megapen,3,45
+8,10,2268,Megapen,3,86
+8,11,8505,Megapen,3,95
+8,12,3591,Megapen,3,349
+9,1,8806,Avil,3,33
+9,2,11186,Avil,3,21
+9,3,9520,Avil,3,87
+9,4,8092,Avil,3,53
+9,5,11186,Avil,3,35
+9,6,5712,Avil,3,34
+9,7,10710,Avil,3,35
+9,8,11900,Avil,3,53
+9,9,8092,Avil,3,32
+9,10,5950,Avil,3,28
+9,11,7854,Avil,3,93
+9,12,2142,Avil,3,654
